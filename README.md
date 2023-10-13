@@ -22,6 +22,6 @@
 - [Website Stealer](https://github.com/hitshoCodes/Website-Stealer)
 
 ## Let's Connect
-- [Discord](discordapp.com/users/866428192713867264)
+- [Discord](https://discordapp.com/users/866428192713867264)
 - [Twitter](https://twitter.com/hitsho_)
 - [Email](mailto:itsimon.business@gmail.com)
