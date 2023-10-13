@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm hitshoCodes! 👋</h1>
 <p align="center">
   <a href="https://github.com/hitshoCodes">GitHub Profile</a> •
-  <a href="[YourWebsiteURL]">Website</a>
+  <a href="api.chromax-tools.repl.co">Website</a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hitshoCodes)
@@ -17,11 +17,11 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitshoCodes&layout=compact)](https://github.com/[YourUsername])
 
 ## Recent Projects
-- [Project 1](https://github.com/hitshoCodes/Chest-Simulator-Webhook)
-- [Project 2](https://github.com/hitshoCodes/HitshoAutomation)
-- [Project 3](https://github.com/hitshoCodes/Website-Stealer)
+- [Chest Simulator Webhook](https://github.com/hitshoCodes/Chest-Simulator-Webhook)
+- [HitshoAutomation](https://github.com/hitshoCodes/HitshoAutomation)
+- [Website-Stealer](https://github.com/hitshoCodes/Website-Stealer)
 
 ## Let's Connect
-- [LinkedIn](https://linkedin.com/in/NaN)
+- [LinkedIn](https://linkedin.com/404)
 - [Twitter](https://twitter.com/hitsho_)
 - [Email](mailto:itsimon.business@gmail.com)
