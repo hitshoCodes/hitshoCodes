@@ -19,7 +19,7 @@
 ## Recent Projects
 - [Chest Simulator Webhook](https://github.com/hitshoCodes/Chest-Simulator-Webhook)
 - [HitshoAutomation](https://github.com/hitshoCodes/HitshoAutomation)
-- [Website-Stealer](https://github.com/hitshoCodes/Website-Stealer)
+- [Website Stealer](https://github.com/hitshoCodes/Website-Stealer)
 
 ## Let's Connect
 - [LinkedIn](https://linkedin.com/404)
