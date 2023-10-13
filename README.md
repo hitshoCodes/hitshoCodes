@@ -4,17 +4,17 @@
   <a href="api.chromax-tools.repl.co">Website</a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hitshoCodes)
+![Profile Views](https://komarev.com/ghpvc/?username=hitshoCodes&theme=dark)
 
 ## About Me
 - 👨‍💻 Software Engineer
 - 🌐 Prague, Czechia
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitshoCodes&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitshoCodes&show_icons=true&count_private=true&theme=dark)
 
 ## Languages and Tools
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitshoCodes&layout=compact)](https://github.com/[YourUsername])
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hitshoCodes&layout=compact&theme=dark)](https://github.com/hitshoCodes)
 
 ## Recent Projects
 - [Chest Simulator Webhook](https://github.com/hitshoCodes/Chest-Simulator-Webhook)
