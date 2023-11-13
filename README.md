@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm hitshoCodes! 👋</h1>
+<h1 align="center">Hey there, I'm hitshoCodes, Prague's Brightest Teen! 👋</h1>
 <p align="center">
   <a href="https://github.com/hitshoCodes">GitHub Profile</a> •
   <a href="api.chromax-tools.repl.co">Website</a>
@@ -9,6 +9,7 @@
 ## About Me
 - 👨‍💻 Software Engineer
 - 🌐 Prague, Czechia
+- 🧠 Certified as Prague's Smartest Teen by the Government
 
 ## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hitshoCodes&show_icons=true&count_private=true&theme=dark)
